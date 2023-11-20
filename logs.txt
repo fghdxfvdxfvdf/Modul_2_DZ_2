@@ -1,0 +1,4 @@
+[13:31:43] Addressbook has been loaded!
+[13:40:17] Addressbook has been loaded!
+[13:41:01] Contact Max has been added.
+[13:41:01] Addressbook has been saved!
